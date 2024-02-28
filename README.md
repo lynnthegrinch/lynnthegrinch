@@ -15,10 +15,10 @@ I have mastered 4 languages (Italian, English, Spanish, French), I know 4 langua
 ### "Ipsa scientia potestas est." -Sir Francis Bacon.
 
 
-## #30NitesOfCode:
+# #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@ValentinaLynn/30-nites-of-code)  
   ![@ValentinaLynn #30NitesOfCode](https://www.codedex.io/api/petStatus?user=ValentinaLynn)
   
-###support me!
+## support me!
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O7RLHKG)
