@@ -3,7 +3,7 @@ I'm just learning how to code, and here you'll see all the small projects I've b
 In the meantime, as you read this, I'll be grabbing my blankets and putting up some music to work hard!
 Learning is hard, but music makes it a bit more bearable!<3
 ## About me.
-Valentina, also known as Lynn. Level 25.
+Valentina, also known as Lynn. Level 26.
 Italian born and raised in Rome, currently living in VA, USA.
 Queer and proud.
 Writer.
